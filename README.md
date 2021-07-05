@@ -1,3 +1,9 @@
+# Deployed Disney+ clone
+  https://disney-clone-f3e0d.web.app/
+  
+# About app  
+It is an app made by using React and hosted on firebase. It also have a backend database which is also present on firebase it also have google authentication enabled with firebase. In authentication, we can use different types of authentication like authentication through g-mail, standard e-mail and password and so on.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
